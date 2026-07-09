@@ -11,8 +11,8 @@
 ```javascript
 const tanvir = {
   name: "Md. Tanvir Yestehad",
-  role: "CSE Student & Web Developer",
-  university: "🎓 Currently Studying CSE",
+  role: "CSE Student & Learning WEB and AI",
+  university: "🎓 United International University",
   location: "📍 Bangladesh",
   learning: ["React", "Node.js", "MySQL"],
   goal: "Building real-world projects 🚀",
