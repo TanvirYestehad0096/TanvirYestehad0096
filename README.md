@@ -87,7 +87,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-TanvirYestehad0096-000?style=for-the-badge&logo=github)](https://github.com/TanvirYestehad0096)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanvir%20Yestehad-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanvir-yestehad-2184243a9/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-yestehadtanviruiu0096%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:yestehadtanviruiu0096@gmail.com)
 
 </div>
 
